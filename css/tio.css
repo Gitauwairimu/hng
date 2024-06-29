@@ -1,0 +1,23 @@
+body {
+    background-color: orange;
+  }
+  
+
+  .rounded-img {
+    width: 30%;
+    height: 30%;
+    border-radius: 25%;
+  }
+
+  /* style.css */
+.nav-link {
+  display: inline-block;
+  margin: 0;
+  margin-right: 10px;
+}
+
+
+body.dark-mode {
+  background-color: #222; /* Change to your desired dark background color */
+  color: #fff; /* Change to your desired text color for dark mode */
+}
